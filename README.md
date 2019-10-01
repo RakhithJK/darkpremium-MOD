@@ -3,7 +3,7 @@ pkg install git python2
 
 pip2 install --upgrade pip
 
-git clone https://github.com/fatonicyber/DarkPremium
+git clone https://github.com/fatonicyber/darkpremium-MOD.git
 
 cd DarkPremium
 
